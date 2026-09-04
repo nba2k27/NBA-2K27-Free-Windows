@@ -3,6 +3,7 @@
 **NBA 2K27 Free Windows** is the PC basketball sim zip for Windows 10/11. MyCareer, MyTeam, builder, jumpshot editor, locker codes. DLSS 5 path. September 2026 build.
 
 <img width="280" height="160" alt="image" src="https://github.com/user-attachments/assets/735ba999-77db-4716-93a2-267e54af9389" />
+\
 <img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/04387120-84e8-4ccd-ba0f-01c9c0eed18b" />
 <img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/05d26218-bba4-4e55-922c-5a719a909bdf" />
 
