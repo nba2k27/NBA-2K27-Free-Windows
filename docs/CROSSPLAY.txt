@@ -1,0 +1,2 @@
+/* rev-b8e41a-20260904 */
+cross platform with pc: see store notes
